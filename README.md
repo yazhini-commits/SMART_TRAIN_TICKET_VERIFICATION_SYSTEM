@@ -278,17 +278,6 @@ Sri Manakula Vinayagar Engineering College, Puducherry
 
 ---
 
-## Project Team
-
-| Team Member | Role |
-|------------|------|
-| Yazhini Ganesan | Team Leader & Software Development |
-| Siddharth B | IoT Hardware Development |
-| Revanth | System Integration & Testing |
-| Nidarshana | Documentation & Presentation |
-
----
-
 ## About the Developer
 
 I am a Computer Science and Engineering student passionate about IoT, Artificial Intelligence, Embedded Systems, and Full Stack Development. I enjoy building innovative solutions that solve real-world problems through automation, cloud technologies, and intelligent systems.
