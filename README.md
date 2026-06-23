@@ -242,8 +242,6 @@ To test the web portal interface locally:
 
 ---
 
----
-
 ## Developer
 
 ### Developed By
