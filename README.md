@@ -242,12 +242,113 @@ To test the web portal interface locally:
 
 ---
 
-## Developer & License
+---
 
-### Project Developer
-**Siddharth B**
-- Specialization: Software Engineering / IoT Development / Full Stack Web Development
-- Team: Social Workers (Smart India Hackathon Entry)
+## Developer
 
-### License
-This system is created and maintained for academic development, research, and innovation review purposes.
+### Developed By
+
+# Yazhini Ganesan
+
+**B.Tech Computer Science and Engineering**  
+Sri Manakula Vinayagar Engineering College, Puducherry
+
+### Project Role
+- Team Leader
+- IoT System Design
+- RFID & NFC Integration
+- Firebase Cloud Integration
+- ESP32-CAM Integration
+- Web Application Development
+- Testing and Validation
+- Documentation and Presentation
+
+### Technical Skills
+- Python
+- Java
+- C
+- C++
+- HTML
+- CSS
+- JavaScript
+- Firebase
+- Arduino
+- ESP32
+- Git & GitHub
+
+---
+
+## Project Team
+
+| Team Member | Role |
+|------------|------|
+| Yazhini Ganesan | Team Leader & Software Development |
+| Siddharth B | IoT Hardware Development |
+| Revanth | System Integration & Testing |
+| Nidarshana | Documentation & Presentation |
+
+---
+
+## About the Developer
+
+I am a Computer Science and Engineering student passionate about IoT, Artificial Intelligence, Embedded Systems, and Full Stack Development. I enjoy building innovative solutions that solve real-world problems through automation, cloud technologies, and intelligent systems.
+
+---
+
+## Project Highlights
+
+- Automated Train Ticket Verification using RFID Technology
+- Real-Time Passenger Monitoring using PIR Sensors
+- Unauthorized Passenger Detection and Alert System
+- ESP32-CAM Based Evidence Collection
+- Firebase Cloud Integration
+- Mobile-Friendly TTE Dashboard
+- Smart Coach Occupancy Tracking
+- Digital Seat Availability Management
+
+---
+
+## Technologies Used
+
+### Hardware
+- Arduino UNO
+- ESP32-CAM
+- RFID RC522
+- PIR Sensor
+- OLED SSD1306
+- Buzzer
+- LEDs
+
+### Software
+- HTML5
+- CSS3
+- JavaScript
+- Firebase Realtime Database
+- Firebase Storage
+
+### Tools
+- Arduino IDE
+- VS Code
+- Git
+- GitHub
+- Figma
+
+---
+
+## Contact
+
+### Yazhini Ganesan
+
+📧 Email: yazhiniganesan2006@gmail.com
+
+🔗 LinkedIn: www.linkedin.com/in/yazhini-ganesan-194793345
+
+💻 GitHub: github.com/Yazhini-Ganesan
+
+---
+
+## License
+
+This project is developed for academic, research, innovation, and demonstration purposes.
+
+© 2026 Yazhini Ganesan. All Rights Reserved.
